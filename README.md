@@ -89,7 +89,7 @@ footer {
 </div>
 
 <h2>RUANG SAJAM</h2>
-<p>Selamat datang di website kita</p>
+<p>Selamat datang di website kami</p>
 <!-- Ganti link di bawah -->
 <a class="link wa" href="https://wa.me/6287823546360" target="_blank">WhatsApp</a>
 <a class="link shopee" href="https://s.shopee.co.id/1LbV8fGDlR" target="_blank">Shopee</a>
